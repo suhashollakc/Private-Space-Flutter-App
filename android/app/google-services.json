@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735533905595",
+    "project_id": "private-space-95afa",
+    "storage_bucket": "private-space-95afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735533905595:android:e4c7d1571986f7d7729b9e",
+        "android_client_info": {
+          "package_name": "com.privatespace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735533905595-6e5jdnmd8a239ve2opstbhdp7u2pi4cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.privatespace",
+            "certificate_hash": "57ee8f70273a6181738db8ef5260ed2d226cef12"
+          }
+        },
+        {
+          "client_id": "735533905595-pe8lpgabmhnggcvtqo230au4hf88mvtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZEpY9Y8pxKgqJUW7VT-1huyHzEczrXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735533905595-pe8lpgabmhnggcvtqo230au4hf88mvtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
